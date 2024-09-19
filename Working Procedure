@@ -1,0 +1,31 @@
+Bug Registration: Users can log new bugs into the system, specifying details such as bug title, description, severity, priority, and responsible person.
+Bug Status Monitoring: The system displays the status of all bugs, such as Open, In Progress, or Resolved.
+Bug Updating: Users can update the bug details or change the status as progress is made.
+Reporting: Generate reports on the number of bugs resolved, in progress, and pending.
+Database Storage: All bug details are stored in a PostgreSQL database.
+
+
+
+Clone the Repository:
+
+"git clone https://github.com/yourusername/Bug-Tracking-System.git"
+
+
+Set Up PostgreSQL Database:
+
+Install PostgreSQL if not already installed.
+Create a new database and configure it as per the settings in config.properties.
+Import the provided SQL schema to set up the required tables.
+
+Configure Database Connection:
+
+Edit the config.properties file to include your PostgreSQL connection details:
+"db.url=jdbc:postgresql://localhost:5432/your_database_name
+db.username=Associate
+db.password=9550392007"
+
+Build and Run the Project:
+
+Use your preferred IDE (e.g., IntelliJ IDEA, Eclipse) to open the project.
+Build the project to resolve dependencies and compile the source code.
+Run the application to launch the GUI.
