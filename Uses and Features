@@ -6,6 +6,12 @@ Database Integration: PostgreSQL backend to store detailed information about bug
 Status Monitoring: Track the status of each bug to ensure timely resolution.
 
 
+Uses:
+Developers: Monitor and manage bugs efficiently, keeping track of their status and priority.
+Quality Assurance (QA) teams: Track unresolved bugs and review the history of reported issues.
+Project managers: Oversee the progress of bug fixes and allocate resources accordingly.
+
+
 Technologies Used:
 
 Java: Main programming language for backend logic and GUI development.
