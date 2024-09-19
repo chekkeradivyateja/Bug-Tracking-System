@@ -1,0 +1,14 @@
+Features:
+
+User-Friendly GUI: Developed using Swing to provide an intuitive and interactive user experience.
+Bug Management: Add, update, and delete bug reports with ease.
+Database Integration: PostgreSQL backend to store detailed information about bugs.
+Status Monitoring: Track the status of each bug to ensure timely resolution.
+
+
+Technologies Used:
+
+Java: Main programming language for backend logic and GUI development.
+Swing: Java library for building the graphical user interface.
+PostgreSQL: Relational database for storing bug details.
+JDBC: Java Database Connectivity for interacting with PostgreSQL.
